@@ -1,0 +1,6 @@
+framework module Pods_Volunteer_Attendance_System_iOS_Volunteer_Attendance_System_iOSUITests {
+  umbrella header "Pods-Volunteer Attendance System iOS-Volunteer Attendance System iOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

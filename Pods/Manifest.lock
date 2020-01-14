@@ -1,0 +1,40 @@
+PODS:
+  - AutoInsetter (1.8.0)
+  - Eureka (5.1.0)
+  - KeychainAccess (4.1.0)
+  - Pageboy (3.5.0)
+  - SkyFloatingLabelTextField (3.7.0)
+  - Tabman (2.6.3):
+    - AutoInsetter (~> 1.8.0)
+    - Pageboy (~> 3.5.0)
+  - TinyConstraints (4.0.1)
+
+DEPENDENCIES:
+  - Eureka
+  - KeychainAccess
+  - SkyFloatingLabelTextField (~> 3.0)
+  - Tabman (~> 2.6)
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - AutoInsetter
+    - Eureka
+    - KeychainAccess
+    - Pageboy
+    - SkyFloatingLabelTextField
+    - Tabman
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  AutoInsetter: 0b90ca74e36561c340129045a3722c51a0b15c58
+  Eureka: 18a5076dcf0c41f9cd9748aa1c42f4d11434bdae
+  KeychainAccess: 445e28864fe6d3458b41fa211bcdc39890e8bd5a
+  Pageboy: 3794c578aae5fcce06e90b3ed4a0ad6b807d75bb
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+  Tabman: 63eae331ae7a9388ae389b1808f1939269fcdece
+  TinyConstraints: 8dd91295e56797648c7bc335dd20e1d91ec4c192
+
+PODFILE CHECKSUM: 7f6b44d7d93ce5110081a8c13e0ceca642f56153
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-Volunteer Attendance System iOS/Pods-Volunteer Attendance System iOS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AutoInsetter/AutoInsetter.framework
+${BUILT_PRODUCTS_DIR}/Eureka/Eureka.framework
+${BUILT_PRODUCTS_DIR}/KeychainAccess/KeychainAccess.framework
+${BUILT_PRODUCTS_DIR}/Pageboy/Pageboy.framework
+${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework
+${BUILT_PRODUCTS_DIR}/Tabman/Tabman.framework
+${BUILT_PRODUCTS_DIR}/TinyConstraints/TinyConstraints.framework
